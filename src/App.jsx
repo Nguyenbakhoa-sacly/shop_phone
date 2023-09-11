@@ -1,5 +1,4 @@
 
-import './app.scss'
 import { Routes, Route } from 'react-router-dom'
 import Layout from './containers/Layout'
 import { Home, Login, Logout, NotFound, Order, Products } from './page'
