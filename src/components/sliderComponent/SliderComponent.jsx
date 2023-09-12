@@ -13,7 +13,7 @@ const SliderComponent = (props) => {
   };
   return (
     <>
-      <section className=' mx-auto w-1280'>
+      <section>
         <Slider {...settings}>
           {
             props.arrImage.map((image, index) => (

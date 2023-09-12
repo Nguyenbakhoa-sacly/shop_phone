@@ -8,9 +8,9 @@ const TypeProducts = () => {
   ]
   return (
 
-    <section className='px-24 bg-white'>
+    <section className=' '>
       <div className='container'>
-        <ul className='flex justify-center items-center '>
+        <ul className='flex justify-start items-center '>
           {type && type.length > 0 && type.map((type) => (
             <li
               key={type.id}
