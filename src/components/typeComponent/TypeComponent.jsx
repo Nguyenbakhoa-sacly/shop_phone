@@ -1,6 +1,6 @@
 import React from 'react'
 
-const TypeProducts = () => {
+const TypeComponent = () => {
   const type = [
     { id: 1, name: 'Tivi' },
     { id: 2, name: 'Tủ Lạnh' },
@@ -25,4 +25,4 @@ const TypeProducts = () => {
   )
 }
 
-export default TypeProducts
+export default TypeComponent

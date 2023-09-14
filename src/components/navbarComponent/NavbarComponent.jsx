@@ -60,7 +60,7 @@ const NavbarComponent = () => {
   }
   return (
     <nav className=' mt-12 mr-4 rounded-md'>
-      <div className='bg-white p-8 w-280'>
+      <div className='bg-white p-8 w-248'>
         <h4 className='text-3xl pb-4'>Danh mục sản phẩm</h4>
         <div>
           <ul className='w-full'>

@@ -4,7 +4,7 @@ const CardComponent = () => {
   return (
     <>
       <section className='mt-12 flex gap-4 flex-wrap' >
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className=" bg-white border w-248 border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>
@@ -39,7 +39,7 @@ const CardComponent = () => {
             </div>
           </div>
         </div>
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className="w-248 bg-white border border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>
@@ -71,7 +71,7 @@ const CardComponent = () => {
             </div>
           </div>
         </div>
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className="w-248 bg-white border border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>
@@ -103,7 +103,7 @@ const CardComponent = () => {
             </div>
           </div>
         </div>
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className="w-248 bg-white border border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>
@@ -135,7 +135,7 @@ const CardComponent = () => {
             </div>
           </div>
         </div>
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className="w-248 bg-white border border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>
@@ -167,7 +167,7 @@ const CardComponent = () => {
             </div>
           </div>
         </div>
-        <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-md">
+        <div className="w-248 bg-white border border-gray-200 rounded-lg hover:shadow-md">
           <a href="#">
             <img className="p-8 w-full h-80 rounded-t-lg" src="https://flowbite.com/docs/images/products/apple-watch.png" alt="product image" />
           </a>

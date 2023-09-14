@@ -65,13 +65,13 @@ const Header = () => {
         </div>
         {
           hideShow &&
-          <div className="z-10 bg-white absolute right-20 top-20 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+          <div className="z-10 bg-white absolute right-20 top-28 divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
             <ul className="py-2 text-sm text-gray-700 dark:text-gray-200" >
               <li>
-                <Link to='/login' className="block px-4 py-2 text-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Login</Link>
+                <Link to='/signin' className="block px-4 py-2 text-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Sign in</Link>
               </li>
               <li>
-                <Link to="/logout" className="block px-4 py-2 text-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Sign out</Link>
+                <Link to="/signup" className="block px-4 py-2 text-2xl hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Sign out</Link>
               </li>
             </ul>
           </div>

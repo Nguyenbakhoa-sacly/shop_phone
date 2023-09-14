@@ -7,11 +7,13 @@ export default {
     extend: {
       width: {
         200: '200px',
+        248: '248px',
         280: '280px',
         1280: '1280px'
       },
       height: {
         274: '274px',
+        436: '436px',
         '100vh': '100vh',
 
       },
